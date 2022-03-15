@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1647312984 source:d:\codeforces\sortproject\src\sortalgorithm.cpp
+	"SortAlgorithm.h"
+
+1646643060 d:\codeforces\sortproject\include\sortalgorithm.h
+	<bits/stdc++.h>
+
+1647313170 source:d:\codeforces\sortproject\main.cpp
+	<bits/stdc++.h>
+	<SortAlgorithm.h>
+

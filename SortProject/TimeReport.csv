@@ -1,0 +1,11 @@
+Test,Sort C++,Quick Sort,Merge Sort,Heap Sort
+Increasing,244,56,2451,519
+Decreasing,177,62,2365,497
+Random1,365,240,2540,627
+Random2,366,241,2521,627
+Random3,368,242,2588,626
+Random4,367,243,2645,661
+Random5,367,244,2558,668
+Random6,367,238,2574,763
+Random7,374,257,2600,774
+Random8,374,250,2608,684
